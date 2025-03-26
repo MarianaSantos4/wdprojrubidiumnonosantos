@@ -7,10 +7,12 @@ Welcome, Detective. You’ve proven yourself capable of cracking a case. But thi
 Are you ready to put your sleuthing skills to the test and embark on a mysterious and thrilling journey? 🔎🌲
 
 ## 4th Quarter Proj Update
+1st Webpage =>
 ← `Map.html`: Map of the Village - This webpage gives the user a more immersive overview on the overall town our characters’ mysteries revolve around. Hover on each one and it contains details and descriptions about this enchanting place, but not everything is so it seems. Take a closer look and you might find hints to help you solve the crimes. But beware, some secrets are meant to stay buried, and danger may lurk where u least expect it. Explore at your own risk, for every shadow in Mystwood holds a story waiting to be uncovered.
 
 Our user will be able to see future possible locations as well, which will be unlocked as they continue to play the game. This webpage will incorporate both css and html for the layout and design, and js to save user information to the server, and further reflect their pending mysteries and those waiting to be unlocked. This dynamic website aims to make the experience more realistic and deep for our player. 
 
+2nd Webpage =>
 ← `Characters.html`: Meet the Characters - This webpage is essential so that the players will get to know more about the roles and backgrounds of the people in the Mystwood kingdom. Once they understand the descriptions of each character, they will gain insights into each character’s personality and motives. This can be a great way to let them have easier decision making and solving the mysteries in the game. This page serves as a helpful guide throughout the player’s journey in playing the game. The Character Profiles webpage introduces the key characters of Mystwood Kingdom. With the king, and queen away on an important trip to England to visit King Charles III, the prince and princess have been left in charge of the palace. Alongside him are the castle guard, the housekeeper, and the lady-in-waiting. The royal family’s maid, the royal butler, a neighboring farmer, a townsperson, etc. With this webpage, the player will get to know each character and learn about their backgrounds.
 
 For server saving data:
